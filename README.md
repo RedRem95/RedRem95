@@ -1,8 +1,7 @@
 ## RedRem95
 
 ### My current Stats
-
-![RedRem95's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RedRem95&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedRem95&layout=compact&theme=dracula)](https://github.com/RedRem95)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedRem95&layout=compact&theme=dracula)](https://github.com/RedRem95)
 
 
 ### Some nice repos :)
